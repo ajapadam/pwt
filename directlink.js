@@ -8,5 +8,5 @@
 	    $(this).removeClass('xepo_ads');
 
 	    //ubah google dengan ads direct link
-	    window.open('https://besidesaffluentcurrently.com/xsp5skzy?key=c379d569fe6a4f930da0afe372717c59', '_blank');
+	    window.open('https://www.highcpmrevenuenetwork.com/eq1mhjh0?key=ec401df1791bf8c6fba33224a66a7ba8', '_blank');
 	})
